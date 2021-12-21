@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystal_mod:moonstone_block"
+    }
+  ],
+  "result": {
+    "item": "crystal_mod:moonstone",
+    "count": 9
+  }
+}
+

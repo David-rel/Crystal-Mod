@@ -10,6 +10,8 @@
   "block.crystal_mod.anyolite_ore": "Anyloite Ore",
   "block.crystal_mod.citrine_ore": "Citrine Ore",
 
+  "itemGroup.CrystalModTab": "Crystal Mod",
+
   "block.crystal_mod.tanzanite_block": "Tanzanite Block",
   "block.crystal_mod.opal_block": "Opal Block",
   "block.crystal_mod.moonstone_block": "Moonstone Block",
@@ -30,5 +32,35 @@
   "item.crystal_mod.unakite": "Unakite",
   "item.crystal_mod.dumortierte": "Dumortierte",
   "item.crystal_mod.anyolite": "Anyolite",
-  "item.crystal_mod.citrine": "Citrine"
+  "item.crystal_mod.citrine": "Citrine",
+
+  "tooltip.crystal_mod.opal": "Stone of protection. Apple to shield or diamond armour for a buff",
+  "tooltip.crystal_mod.opal_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.anyolite": "Stone of joy, laughter, and courage. Apply to a Totem for a buff",
+  "tooltip.crystal_mod.anyolite_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.citrine": "Stone of abundance, and transmutation. Apply to diamond tools for a buff",
+  "tooltip.crystal_mod.citrine_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.dumortierte": "Stone of calmness, and relaxation. Apply to a diamond chestplate for a buff",
+  "tooltip.crystal_mod.dumortierte_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.moonstone": "Stone of inner growth. Apply to cooked food for a buff",
+  "tooltip.crystal_mod.moonstone_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.prehnite": "Stone of dreaming and remembering: Apply to a bed for a buff",
+  "tooltip.crystal_mod.prehnite_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.ruby_zoiste": "Stone of appreciation, abundance: Apply to diamond sword or to diamond tools for a buff",
+  "tooltip.crystal_mod.ruby_zoiste_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.sacral_chakra": "stone of creativity, and manifistation. Apply to nether Star for a buff",
+  "tooltip.crystal_mod.sacral_chakra_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.tanzanite": "Stone of higher consciousness. Apply to Gold Helmet to get a buff",
+  "tooltip.crystal_mod.tanzanite_shift": "Hold §eSHIFT§r for more Information!",
+
+  "tooltip.crystal_mod.unakite": "Stone of vision, and understanding. Apply to diamond helmet for a buff",
+  "tooltip.crystal_mod.unakite_shift": "Hold §eSHIFT§r for more Information!"
 }

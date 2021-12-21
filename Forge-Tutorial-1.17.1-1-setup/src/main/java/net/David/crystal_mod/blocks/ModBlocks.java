@@ -24,68 +24,68 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, CrystalMod.MOD_ID);
 
     public static final RegistryObject<Block> OPAL_ORE = registerBlock("opal_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> ANYOLITE_ORE = registerBlock("anyolite_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> CITRINE_ORE = registerBlock("citrine_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> DUMORTIERTE_ORE = registerBlock("dumortierte_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> MOONSTONE_ORE = registerBlock("moonstone_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> PREHNITE_ORE = registerBlock("prehnite_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> RUBY_ZOISTE_ORE = registerBlock("ruby_zoiste_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> SACRAL_CHAKRA_ORE = registerBlock("sacral_chakra_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> TANZANITE_ORE = registerBlock("tanzanite_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
     public static final RegistryObject<Block> UNKAITE_ORE = registerBlock("unakite_ore",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(1f)));
 
 
 
 
 
     public static final RegistryObject<Block> ANYOLITE_BLOCK = registerBlock("anyolite_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> CITRINE_BLOCK = registerBlock("citrine_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> DUMORTIERTE_BLOCK = registerBlock("dumortierte_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> MOONSTONE_BLOCK = registerBlock("moonstone_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> OPAL_BLOCK = registerBlock("opal_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> PREHNITE_BLOCK = registerBlock("prehnite_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> RUBY_ZOISTE_BLOCK = registerBlock("ruby_zoiste_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> SACRAL_CHAKRA_BLOCK = registerBlock("sacral_chakra_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> UNAKITE_BLOCK = registerBlock("unakite_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
     public static final RegistryObject<Block> TANZANITE_BLOCK = registerBlock("tanzanite_block",() -> new Block
-            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+            (BlockBehaviour.Properties.of(Material.STONE).strength(2f)));
 
 
 
@@ -137,8 +137,6 @@ public class ModBlocks {
     }
 
     public static void register(IEventBus eventBus) {
-
-
         BLOCKS.register(eventBus);
     }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crystal_mod:sacral_chakra_block"
+    }
+  ],
+  "result": {
+    "item": "crystal_mod:sacral_chakra",
+    "count": 9
+  }
+}
