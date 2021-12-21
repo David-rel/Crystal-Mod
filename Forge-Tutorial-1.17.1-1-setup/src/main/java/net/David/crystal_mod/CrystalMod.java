@@ -1,5 +1,7 @@
 package net.David.crystal_mod;
 
+import net.David.crystal_mod.blocks.ModBlocks;
+import net.David.crystal_mod.item.ModItems;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -22,6 +24,9 @@ public class CrystalMod {
 
     public CrystalMod() {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 

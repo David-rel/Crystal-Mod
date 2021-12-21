@@ -1,0 +1,23 @@
+{
+  "block.crystal_mod.tanzanite_ore": "Tanzanite Ore",
+  "block.crystal_mod.opal_ore": "Opal Ore",
+  "block.crystal_mod.moonstone_ore": "Moonstone Ore",
+  "block.crystal_mod.prehnite_ore": "Prehnite Ore",
+  "block.crystal_mod.ruby_zoiste_ore": "Ruby Zoiste Ore",
+  "block.crystal_mod.sacral_chakra_ore": "Sacral Chakra Ore",
+  "block.crystal_mod.unakite_ore": "Unakite Ore",
+  "block.crystal_mod.dumortierte_ore": "Dumortierte Ore",
+  "block.crystal_mod.anyolite_ore": "Anyloite Ore",
+  "block.crystal_mod.citrine_ore": "Citrine Ore",
+
+  "item.crystal_mod.tanzanite": "Tanzanite",
+  "item.crystal_mod.opal": "Opal",
+  "item.crystal_mod.moonstone": "Moonstone",
+  "item.crystal_mod.prehnite": "Prehnite",
+  "item.crystal_mod.ruby_zoiste": "Ruby Zoiste",
+  "item.crystal_mod.sacral_chakra": "Sacral Chakra",
+  "item.crystal_mod.unakite": "Unakite",
+  "item.crystal_mod.dumortierte": "Dumortierte",
+  "item.crystal_mod.anyolite": "Anyolite",
+  "item.crystal_mod.citrine": "Citrine"
+}
