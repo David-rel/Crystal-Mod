@@ -23,9 +23,6 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, CrystalMod.MOD_ID);
 
-
-
-
     public static final RegistryObject<Block> OPAL_ORE = registerBlock("opal_ore",() -> new Block
             (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
 
@@ -55,6 +52,48 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> UNKAITE_ORE = registerBlock("unakite_ore",() -> new Block
             (BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops()));
+
+
+
+
+
+    public static final RegistryObject<Block> ANYOLITE_BLOCK = registerBlock("anyolite_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> CITRINE_BLOCK = registerBlock("citrine_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> DUMORTIERTE_BLOCK = registerBlock("dumortierte_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> MOONSTONE_BLOCK = registerBlock("moonstone_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> OPAL_BLOCK = registerBlock("opal_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> PREHNITE_BLOCK = registerBlock("prehnite_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> RUBY_ZOISTE_BLOCK = registerBlock("ruby_zoiste_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> SACRAL_CHAKRA_BLOCK = registerBlock("sacral_chakra_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> UNAKITE_BLOCK = registerBlock("unakite_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> TANZANITE_BLOCK = registerBlock("tanzanite_block",() -> new Block
+            (BlockBehaviour.Properties.of(Material.STONE).strength(10f).requiresCorrectToolForDrops()));
+
+
+
+
+
+
+
+
 
 
 

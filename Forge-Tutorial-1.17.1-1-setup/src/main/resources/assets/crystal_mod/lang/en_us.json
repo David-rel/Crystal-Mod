@@ -10,6 +10,17 @@
   "block.crystal_mod.anyolite_ore": "Anyloite Ore",
   "block.crystal_mod.citrine_ore": "Citrine Ore",
 
+  "block.crystal_mod.tanzanite_block": "Tanzanite Block",
+  "block.crystal_mod.opal_block": "Opal Block",
+  "block.crystal_mod.moonstone_block": "Moonstone Block",
+  "block.crystal_mod.prehnite_block": "Prehnite Block",
+  "block.crystal_mod.ruby_zoiste_block": "Ruby Zoiste Block",
+  "block.crystal_mod.sacral_chakra_block": "Sacral Chakra Block",
+  "block.crystal_mod.unakite_block": "Unakite Block",
+  "block.crystal_mod.dumortierte_block": "Dumortierte Block",
+  "block.crystal_mod.anyolite_block": "Anyloite Block",
+  "block.crystal_mod.citrine_block": "Citrine Block",
+
   "item.crystal_mod.tanzanite": "Tanzanite",
   "item.crystal_mod.opal": "Opal",
   "item.crystal_mod.moonstone": "Moonstone",
