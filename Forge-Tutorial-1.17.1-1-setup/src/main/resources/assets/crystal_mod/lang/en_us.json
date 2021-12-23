@@ -34,6 +34,43 @@
   "item.crystal_mod.anyolite": "Anyolite",
   "item.crystal_mod.citrine": "Citrine",
 
+  "item.crystal_mod.anyolite_totem": "Anyolite Totem",
+
+  "item.crystal_mod.citrine_axe": "Citrine Axe",
+  "item.crystal_mod.citrine_hoe": "Citrine Hoe",
+  "item.crystal_mod.citrine_pickaxe": "Citrine Pickaxe",
+  "item.crystal_mod.citrine_shovel": "Citrine Shovel",
+
+  "item.crystal_mod.dumortierte_helmet": "Dumortierte Helmet",
+  "item.crystal_mod.dumortierte_chestplate": "Dumortierte Chestplate",
+  "item.crystal_mod.dumortierte_leggings": "Dumortierte Leggings",
+  "item.crystal_mod.dumortierte_boots": "Dumortierte Boots",
+
+  "item.crystal_mod.moonstone_meat": "Moonstone Meat",
+
+  "item.crystal_mod.opal_boots": "Opal Boots",
+  "item.crystal_mod.opal_leggings": "Opal Leggings",
+  "item.crystal_mod.opal_chestplate": "Opal Chestplate",
+  "item.crystal_mod.opal_helmet": "Opal Helmet",
+
+  "item.crystal_mod.ruby_zoiste_sword": "Ruby Zoiste Sword",
+  "item.crystal_mod.ruby_zoiste_pickaxe": "Ruby_Zoiste Pickaxe",
+  "item.crystal_mod.ruby_zoiste_axe": "Ruby Zoiste Axe",
+  "item.crystal_mod.ruby_zoiste_shovel": "Ruby Zoiste Shovel",
+  "item.crystal_mod.ruby_zoiste_hoe": "Ruby Zoiste Hoe",
+
+  "item.crystal_mod.sacral_chakra_star": "Sacral Chakra Star",
+
+  "item.crystal_mod.tanzanite_potion": "Tanzanite Potion",
+
+  "item.crystal_mod.unakite_helmet": "Unakite Helmet",
+
+
+
+
+
+
+
   "tooltip.crystal_mod.opal": "Stone of protection. Apple to shield or diamond armour for a buff",
   "tooltip.crystal_mod.opal_shift": "Hold §eSHIFT§r for more Information!",
 
@@ -43,7 +80,7 @@
   "tooltip.crystal_mod.citrine": "Stone of abundance, and transmutation. Apply to diamond tools for a buff",
   "tooltip.crystal_mod.citrine_shift": "Hold §eSHIFT§r for more Information!",
 
-  "tooltip.crystal_mod.dumortierte": "Stone of calmness, and relaxation. Apply to a diamond chestplate for a buff",
+  "tooltip.crystal_mod.dumortierte": "Stone of calmness, and relaxation. Apply to a diamond armour for a buff",
   "tooltip.crystal_mod.dumortierte_shift": "Hold §eSHIFT§r for more Information!",
 
   "tooltip.crystal_mod.moonstone": "Stone of inner growth. Apply to cooked food for a buff",
@@ -58,9 +95,13 @@
   "tooltip.crystal_mod.sacral_chakra": "stone of creativity, and manifistation. Apply to nether Star for a buff",
   "tooltip.crystal_mod.sacral_chakra_shift": "Hold §eSHIFT§r for more Information!",
 
-  "tooltip.crystal_mod.tanzanite": "Stone of higher consciousness. Apply to Gold Helmet to get a buff",
+  "tooltip.crystal_mod.tanzanite": "Stone of higher consciousness. Apply to Dragons Breath to get a buff",
   "tooltip.crystal_mod.tanzanite_shift": "Hold §eSHIFT§r for more Information!",
 
   "tooltip.crystal_mod.unakite": "Stone of vision, and understanding. Apply to diamond helmet for a buff",
   "tooltip.crystal_mod.unakite_shift": "Hold §eSHIFT§r for more Information!"
+
+
+
+
 }

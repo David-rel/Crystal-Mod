@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "crystal_mod:item/sacral_chakra_star"
+  }
+}
